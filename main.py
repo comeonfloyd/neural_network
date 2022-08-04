@@ -1,3 +1,7 @@
+# I have no idea what I'm doing...
+
+# Cетка написана с помощью учебника "Создаем Нейронную сеть" Тарика Рашида
+
 import numpy as np
 import scipy.special
 
